@@ -3,6 +3,12 @@ title: Birden çok kullanıcı profilinden kaynaklanan sorunlar
 sidebar_position: 14
 ---
 
+:::note
+
+This article covers AdGuard for Android, a multifunctional ad blocker that protects your device at the system level. To see how it works, [download the AdGuard app](https://adguard.com/download.html?auto=true)
+
+:::
+
 On Android 9 and later, if AdGuard is installed for more than one user profile on your device, you may encounter problems when uninstalling the app. AdGuard'ı bir kullanıcı profilinden kaldırdığınızda, uygulama, uygulama listesinde görünmeye devam eder, ancak onu kaldıramaz veya yeniden yükleyemezsiniz. It happens because AdGuard is installed for a different user profile on the device.
 
 If you try to reinstall AdGuard after an unsuccessful removal attempt, you will see the error message "You can't install the app on your device".
